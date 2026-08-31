@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6d75ebd3-b517-45f9-a9b7-b903de475a38
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/DAMADScienceCorps/PyBOOT
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
